@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    /* background-image: url('https://images.pexels.com/photos/1605325/pexels-photo-1605325.jpeg?auto=compress&cs=tinysrgb&w=600'); */
+    background-color: gray;
+    /* background-position:center; */
+    text-align: center;
+}
+h1{
+    font-variant: small-caps;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding:15px;
+}
+h4{
+    font-size: 30px;
+    color: black;
+    text-decoration: underline;
+}
+button{
+    margin: 10px auto;
+    border: 3px solid;
+    font-size: 30px;
+}
+
